@@ -32,3 +32,6 @@ phpunit.phar
 composer.lock
 .env
 
+!/.env
+!/vendor/
+!/composer.lock
